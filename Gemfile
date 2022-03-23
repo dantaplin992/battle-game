@@ -5,7 +5,7 @@ source "https://rubygems.org"
 # gem "rails"
 
 gem "rspec", "~> 3.11"
-
+gem 'sinatra'
 
 source "https://rubygems.org"
 gem 'capybara'
